@@ -1,0 +1,2 @@
+V1|Car|Swift|1500|False|Aman|7
+V2|Bike|Splendor|500|True|-|0
