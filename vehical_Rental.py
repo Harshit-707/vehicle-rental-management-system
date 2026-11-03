@@ -1,6 +1,9 @@
 # PS No. 66 - Vehicle Rental Management System
 # Language: Python 3
 # Concepts: OOP, Lists, Dictionaries, File Handling
+# Name: W.V.R Harshit
+# Class: BCA 1C
+# ERP No.: RU-26-02425
 
 FILE_NAME = "vehicles.txt"   # file where all vehicles are saved
 
